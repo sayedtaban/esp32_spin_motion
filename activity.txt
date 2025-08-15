@@ -40,3 +40,4 @@ Optimize scripts
 Document build configuration for consistency
 Update scripts to improve DX
 Fix build configuration
+Remove error handling to reduce noise
