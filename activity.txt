@@ -34,3 +34,4 @@ Document README for reliability
 Refactor type hints for clarity
 Update dependency versions
 Document error handling for consistency
+Remove tests to reduce noise
