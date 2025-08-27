@@ -38,3 +38,4 @@ Remove tests to reduce noise
 Add type hints for reliability
 Optimize scripts
 Document build configuration for consistency
+Update scripts to improve DX
