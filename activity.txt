@@ -36,3 +36,4 @@ Update dependency versions
 Document error handling for consistency
 Remove tests to reduce noise
 Add type hints for reliability
+Optimize scripts
